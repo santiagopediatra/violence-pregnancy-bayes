@@ -11,7 +11,7 @@ The exposure is violence documented in the clinical registry. It must not be int
 | **Título** | Recorded gestational violence and neonatal risks: A 15-year study in hospitalized deliveries |
 | **Enfoque** | Violencia gestacional, riesgos neonatales, parto prematuro y uso de sustancias |
 | **Metodología** | Análisis de datos perinatales históricos (15 años de seguimiento) |
-| **Enlace Directo** | [![DOI Badge](https://shields.io)](https://doi.org/10.3389/fgwh.2026.1920014) |
+| **Enlace Directo** | [![DOI Frontiers](https://shields.io)](https://doi.org/10.3389/fgwh.2026.1920014) |
 
 
 [![DOI:10.3389/fgwh.2026.1920014](https://shields.io)](https://doi.org/10.3389/fgwh.2026.1920014)
