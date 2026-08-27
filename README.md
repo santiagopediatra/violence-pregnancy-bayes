@@ -5,10 +5,14 @@
 Reproducible code and derived aggregate results for analyses of **registry-recorded gestational violence and neonatal outcomes** at Hospital Gineco-Obstétrico Isidro Ayora (HGOIA), Quito, Ecuador, 2009–2024.
 
 The exposure is violence documented in the clinical registry. It must not be interpreted as the true prevalence of gestational violence. Under-recording, missingness and selection into the neonatal cohort are addressed through sensitivity analyses.
-### 📄 Publicación: Frontiers in Global Women's Health 
 
-> **"Violencia gestacional registrada y riesgos neonatales: Un estudio de 15 años en partos hospitalizados"**
-> *Análisis integral de registros perinatales, tabaquismo pasivo, consumo de alcohol y uso de sustancias en el contexto del parto.*
+| 🧬 **Estudio Clínico / Salud Global** | [Frontiers in Global Women's Health](https://doi.org/10.3389/fgwh.2026.1920014) |
+| :--- | :--- |
+| **Título** | Recorded gestational violence and neonatal risks: A 15-year study in hospitalized deliveries |
+| **Enfoque** | Violencia gestacional, riesgos neonatales, parto prematuro y uso de sustancias |
+| **Metodología** | Análisis de datos perinatales históricos (15 años de seguimiento) |
+| **Enlace Directo** | [![DOI Badge](https://shields.io)](https://doi.org/10.3389/fgwh.2026.1920014) |
+
 
 [![DOI:10.3389/fgwh.2026.1920014](https://shields.io)](https://doi.org/10.3389/fgwh.2026.1920014)
 
