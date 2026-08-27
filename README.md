@@ -1,8 +1,18 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22072677.svg)](https://doi.org/10.5281/zenodo.22072677)
+
 # Registered gestational violence and neonatal outcomes at HGOIA
 
 Reproducible code and derived aggregate results for analyses of **registry-recorded gestational violence and neonatal outcomes** at Hospital Gineco-Obstétrico Isidro Ayora (HGOIA), Quito, Ecuador, 2009–2024.
 
 The exposure is violence documented in the clinical registry. It must not be interpreted as the true prevalence of gestational violence. Under-recording, missingness and selection into the neonatal cohort are addressed through sensitivity analyses.
+### 📄 Publicación: Frontiers in Global Women's Health 
+
+> **"Violencia gestacional registrada y riesgos neonatales: Un estudio de 15 años en partos hospitalizados"**
+> *Análisis integral de registros perinatales, tabaquismo pasivo, consumo de alcohol y uso de sustancias en el contexto del parto.*
+
+[![DOI:10.3389/fgwh.2026.1920014](https://shields.io)](https://doi.org/10.3389/fgwh.2026.1920014)
+
+---
 
 ## Repository contents
 
