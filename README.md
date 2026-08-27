@@ -13,7 +13,7 @@ The exposure is violence documented in the clinical registry. It must not be int
 |---|---|
 | **📚 Revista** | *Frontiers in Global Women's Health* |
 | **🎯 Enfoque** | Violencia gestacional, riesgos neonatales, parto prematuro y uso de sustancias |
-| **🔬 Metodología** | Análisis de datos perinatales históricos con 15 años de seguimiento |
+| **🔬 Metodología** | Análisis de datos perinatales históricos con 15 años de seguimiento (análisis bayesianos) |
 | **🔗 DOI** | [10.3389/fgwh.2026.1920014](https://doi.org/10.3389/fgwh.2026.1920014) |
 
 [![DOI](https://img.shields.io/badge/DOI-10.3389%2Ffgwh.2026.1920014-0A66C2?style=for-the-badge&logo=doi&logoColor=white)](https://doi.org/10.3389/fgwh.2026.1920014)
