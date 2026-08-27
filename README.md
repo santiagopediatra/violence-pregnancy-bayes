@@ -6,7 +6,7 @@ Reproducible code and derived aggregate results for analyses of **registry-recor
 
 The exposure is violence documented in the clinical registry. It must not be interpreted as the true prevalence of gestational violence. Under-recording, missingness and selection into the neonatal cohort are addressed through sensitivity analyses.
 
-## 🧬 Estudio Clínico · Salud Global
+## 🧬 Estudio Clínico · Salud Perinatal
 ### Recorded gestational violence and neonatal risks: A 15-year study in hospitalized deliveries
 
 | | |
