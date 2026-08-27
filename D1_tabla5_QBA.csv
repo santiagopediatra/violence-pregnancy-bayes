@@ -1,0 +1,11 @@
+"desenlace","trimestre","escenario","prev_real","Se_implicita","OR_corregido","IC_lo_MC","IC_hi_MC"
+"prematuridad","T3","Prev real 3%",0.03,0.195,1.553,1.547,1.567
+"lactancia","T3","Prev real 3%",0.03,0.195,1.023,1.022,1.023
+"prematuridad","T3","Prev real 5%",0.05,0.117,1.569,1.555,1.606
+"lactancia","T3","Prev real 5%",0.05,0.117,1.023,1.023,1.024
+"prematuridad","T3","Prev real 8%",0.08,0.073,1.594,1.565,1.702
+"lactancia","T3","Prev real 8%",0.08,0.073,1.024,1.023,1.027
+"prematuridad","T3","Prev real 10%",0.1,0.058,1.611,1.57,1.837
+"lactancia","T3","Prev real 10%",0.1,0.058,1.024,1.023,1.03
+"prematuridad","T3","Prev real 15%",0.15,0.039,1.661,1.584,2.488
+"lactancia","T3","Prev real 15%",0.15,0.039,1.026,1.024,1.047

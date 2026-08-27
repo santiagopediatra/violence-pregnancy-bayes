@@ -1,0 +1,23 @@
+# Datos clínicos y objetos derivados no distribuibles
+BASE_HASTA_2024.csv
+VIOLENCIA_HASTA_2024.csv
+PERFIL_MADRE_VIOLENTADA_COMPLETO.xlsx
+objetos_analisis_violencia_corregido.rds
+modelo_*.rds
+*.rds
+
+# Copias locales redundantes
+* (1).csv
+* (1).R
+* (1).docx
+* (1).Rproj
+
+# Temporales y entorno local
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+perfil_materno_output.txt_
+
+# Paquetes preparados para carga manual
+release/

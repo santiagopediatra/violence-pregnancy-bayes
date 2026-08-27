@@ -1,0 +1,30 @@
+{
+  "title": "Reproducible code: registry-recorded gestational violence and neonatal outcomes at HGOIA, 2009–2024",
+  "description": "R code, aggregate results and a conceptual DAG for analyses of registry-recorded gestational violence and neonatal outcomes at Hospital Gineco-Obstétrico Isidro Ayora, Quito, Ecuador. The release includes Bayesian, Firth, quantitative bias, inverse-probability-weighting and E-value analyses. It contains no individual-level clinical data.",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Vasco-Morales, Santiago",
+      "affiliation": "Hospital Gineco-Obstétrico Isidro Ayora"
+    }
+  ],
+  "version": "1.0.0",
+  "publication_date": "2026-08-23",
+  "license": "cc-by-4.0",
+  "language": "eng",
+  "keywords": [
+    "gestational violence",
+    "neonatal outcomes",
+    "Bayesian analysis",
+    "quantitative bias analysis",
+    "inverse probability weighting",
+    "Ecuador"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/santiagopediatra/Neonatologia/tree/main/violence-pregnancy-bayes",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
