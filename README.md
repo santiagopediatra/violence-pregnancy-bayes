@@ -6,16 +6,17 @@ Reproducible code and derived aggregate results for analyses of **registry-recor
 
 The exposure is violence documented in the clinical registry. It must not be interpreted as the true prevalence of gestational violence. Under-recording, missingness and selection into the neonatal cohort are addressed through sensitivity analyses.
 
-| 🧬 **Estudio Clínico / Salud Global** | [Frontiers in Global Women's Health](https://doi.org/10.3389/fgwh.2026.1920014) |
-| :--- | :--- |
-| **Título** | Recorded gestational violence and neonatal risks: A 15-year study in hospitalized deliveries |
-| **Enfoque** | Violencia gestacional, riesgos neonatales, parto prematuro y uso de sustancias |
-| **Metodología** | Análisis de datos perinatales históricos (15 años de seguimiento) |
-| **Enlace Directo** | [![DOI Frontiers](https://shields.io)](https://doi.org/10.3389/fgwh.2026.1920014) |
+## 🧬 Estudio Clínico · Salud Global
+### Recorded gestational violence and neonatal risks: A 15-year study in hospitalized deliveries
 
+| | |
+|---|---|
+| **📚 Revista** | *Frontiers in Global Women's Health* |
+| **🎯 Enfoque** | Violencia gestacional, riesgos neonatales, parto prematuro y uso de sustancias |
+| **🔬 Metodología** | Análisis de datos perinatales históricos con 15 años de seguimiento |
+| **🔗 DOI** | [10.3389/fgwh.2026.1920014](https://doi.org/10.3389/fgwh.2026.1920014) |
 
-[![DOI:10.3389/fgwh.2026.1920014](https://shields.io)](https://doi.org/10.3389/fgwh.2026.1920014)
-
+[![DOI](https://img.shields.io/badge/DOI-10.3389%2Ffgwh.2026.1920014-0A66C2?style=for-the-badge&logo=doi&logoColor=white)](https://doi.org/10.3389/fgwh.2026.1920014)
 ---
 
 ## Repository contents
